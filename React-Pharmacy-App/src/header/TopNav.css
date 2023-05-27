@@ -1,0 +1,27 @@
+.navbar{
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+  background: #e0e0f7;
+}
+.list_item{
+  color: #6364d5 !important;
+  width: 150px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.brand{
+    color: #2d2d32 !important;
+    font-size: 22px;
+    font-weight: 600;
+}
+.list_item:hover{
+  color:#2d2d32 !important;
+  font-size: 22px !important;
+}
+.brand{
+  font-family: monospace;
+}
